@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash Azizi</h1>
-<h3 align="center">I love simplifying things and helping others. That's why I love programming, programming allows me to help others and build a better life for others and of course myself.</h3>
+<h3 align="center">I love simplifying things and helping others. That's why I love programming, programming helps me to help others and build a better life for others and of course myself.</h3>
 
 ### Connect with me:
 
