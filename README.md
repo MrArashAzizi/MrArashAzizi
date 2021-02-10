@@ -16,7 +16,7 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-
+<img align="left" width="26px" src="https://simpleicons.org/icons/dart.svg" />
 
 <br>
 <br>
